@@ -1,2 +1,2 @@
 export const NAME = "Riptire";
-export const INSTANCE = "invidious.jing.rocks";
+export const INSTANCE = "tube.blitzw.in";
